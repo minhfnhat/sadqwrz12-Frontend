@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions",
+        "title": "Innovate Your Language"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions",
+        "title": "Innovate Your Language"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions",
+        "title": "Innovate Your Language"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions",
+        "title": "Innovate Your Language"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions",
+        "title": "Innovate Your Language"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions",
+        "title": "Innovate Your Language"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions",
+        "title": "Innovate Your Language"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions",
+        "title": "Innovate Your Language"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions",
+        "title": "Innovate Your Language"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Innovate Your Language",
+  "subtitle": "Transform Words into Ideas with Our Cutting-Edge Solutions"
+}
